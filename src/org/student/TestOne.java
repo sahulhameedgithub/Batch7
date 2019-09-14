@@ -14,10 +14,18 @@ public class TestOne
 		{
 			System.out.print("number");
 		}
+<<<<<<< HEAD
 		public void number2()
 		{
 			System.out.print("number2");
 		}
+=======
+		public void number1()
+		{
+			System.out.print("number1");
+		}
+		
+>>>>>>> 9091a761d3f6b8fa156bbee92eac8ccbc1fb6641
 		public static void main (String [] args)
 		{
 		name();
