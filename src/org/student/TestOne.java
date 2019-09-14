@@ -14,6 +14,10 @@ public class TestOne
 		{
 			System.out.print("number");
 		}
+		public void number2()
+		{
+			System.out.print("number2");
+		}
 		public static void main (String [] args)
 		{
 		name();
